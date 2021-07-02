@@ -1,12 +1,4 @@
 body{
-    background-color: coral;
-}
+    background: cornsilk
 
-.titulo{
-
-    height: 220px;
-    margin: 2rem auto;
-    position: relative;
-    text-align: center;
-    width:  300px;
 }
